@@ -1,4 +1,5 @@
-# Cs546Group6
+# Create a Web App and RESTful API Server Using the MEAN Stack
+Retrieved from https://devcenter.heroku.com/articles/mean-apps-restful-api
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.3.
 
